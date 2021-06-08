@@ -1,5 +1,5 @@
-# Twister
-Class Fraction Python
+
+#Class Fraction Python
 
 What has to be done to print for example: 
 r = fraction(13/15)
